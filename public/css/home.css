@@ -1,0 +1,27 @@
+.sharp_button {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 0;
+    font-weight: bold;
+}
+
+.sharp_button:hover {
+    background-color: black;
+    color: white;
+}
+
+#title_div a{
+    text-decoration: none;
+    color: black;
+}
+#title_div a:hover{
+    text-decoration: underline;
+}
+
+.orange {
+    background-color: #F3B58C;
+}
+
+.gray {
+    background-color: #EDEDEF;
+}
